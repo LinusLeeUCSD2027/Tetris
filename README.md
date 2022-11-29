@@ -1,22 +1,10 @@
-# Hack School: Learn the MERN
+# Personal Finance Tracker
 
-This is the main repository for ACM @ UCSD's Hack School in Fall 2022. 
+## Information
 
-## Preparing for Hack School
+Utilizing the MERN Stack to create a Personal Finance Tracker App that tracks users purhcases.
 
-We'll add more resources here soon!
+Users can create purhcases on on a React Web App and store their purchases in a MongoDB database.
+Users can view what product they purchased, the location where the product was purchased, the date
+where the product was created, the cost of the product, and the type of payment (cash, credit, etc.)
 
-## Slides and Resources
-
-As the series goes on, we'll add the slides, recordings, and code here!
-
-Part 0 (10/6) - Intro to Software Engineering - [Slide Deck](https://acmurl.com/hackschool-0-slides)
-
-Part 1 (10/13) - Intro to HTML/CSS - [Slide Deck](https://acmurl.com/hackschool-1-slides) - [Code](https://github.com/acmucsd/hackschool-fa22/tree/part1) - [Recording](https://acmurl.com/hackschool-1-video)
-
-Part 2 (10/27) - JavaScript & Node.js - [Slide Deck](https://acmurl.com/hackschool-2-slides) - [Code](https://github.com/acmucsd/hackschool-fa22/tree/part2) - [Recording](https://acmurl.com/hackschool-2-video)
-
-
-## Give us Feedback
-
-We always want to improve Hack School and our workshops as a whole for our students. If you have any feedback, feel free to leave it at https://acmurl.com/hackschool-feedback.
